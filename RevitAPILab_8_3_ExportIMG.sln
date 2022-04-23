@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPILab_8_3_ExportIMG", "RevitAPILab_8_3_ExportIMG\RevitAPILab_8_3_ExportIMG.csproj", "{4FC771FA-FAD1-47E5-9C9C-B40974C99634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC771FA-FAD1-47E5-9C9C-B40974C99634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC771FA-FAD1-47E5-9C9C-B40974C99634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC771FA-FAD1-47E5-9C9C-B40974C99634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC771FA-FAD1-47E5-9C9C-B40974C99634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B63F0ED-6B7A-4BA5-A505-62047A5B3751}
+	EndGlobalSection
+EndGlobal
